@@ -1,10 +1,10 @@
 <img src = "https://github.com/manushiez/manushiez/blob/main/Growing%20myself.png">
 
 
-<p align="left">
+<p align="center">
   <a href="https://moon-svg.minung.dev">
     <img src="https://moon-svg.minung.dev/moon.svg?date=2003-07-03&theme=basic" alt="moon.svg" />
-    ### &nbsp;OUR MOON
+    &nbsp;OUR MOON
     <img src="https://moon-svg.minung.dev/moon.svg?date=2003-09-24&theme=basic" alt="moon.svg" />
 </a>
 
