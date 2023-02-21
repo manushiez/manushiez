@@ -1,6 +1,6 @@
 <img src = "https://github.com/manushiez/manushiez/blob/main/Growing%20myself.png">
 
-### 📈 &nbsp;Contribution Statistics
+### 🎗 &nbsp;MyStats
 
 <br/>
 <p align="left">
