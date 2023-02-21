@@ -1,15 +1,15 @@
 <img src = "https://github.com/manushiez/manushiez/blob/main/Growing%20myself.png">
 
 <!-- real time -->
-<br>
 <p allig="center">
 <a href="https://moon-svg.minung.dev">
   <img src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon.svg" />
 </a>
 
 <!-- specific date -->
-<a href="https://moon-svg.minung.dev">
-  <img src="https://moon-svg.minung.dev/moon.svg?date=2003-09-24&theme=basic" alt="moon.svg" />
+<p align="center">
+  <a href="https://moon-svg.minung.dev">
+    <img src="https://moon-svg.minung.dev/moon.svg?date=2003-09-24&theme=basic" alt="moon.svg" />
 </a>
 
 ### 🎗 &nbsp;MyStats
