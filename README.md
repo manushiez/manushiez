@@ -19,6 +19,11 @@
 </p>
 <br>
 
+<a href="https://www.data-card-for-spotify.com/card?user_id=mho75dj3r215lo924qzseymki">
+  <img src="https://www.data-card-for-spotify.com/api/card?user_id=mho75dj3r215lo924qzseymki" alt="Data Card for Spotify">
+</a>
+
+[![Data Card for Spotify](https://www.data-card-for-spotify.com/card?user_id=mho75dj3r215lo924qzseymki)](https://github-readme-streak-stats.herokuapp.com/?user=manushiez&theme=blueberry&hide_border=true)
 
 
 
