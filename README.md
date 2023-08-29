@@ -1,4 +1,4 @@
-<img src = "https://github.com/manushiez/manushiez/blob/main/MANUSHI%20tyagi%20(3).png">
+<img src = "https://github.com/manushiez/manushiez/blob/main/MANUSHI%20tyagi%20(2).png">
 
 
 
