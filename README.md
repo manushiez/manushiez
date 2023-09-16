@@ -20,7 +20,8 @@
  
  
  </p>
-### 🎗 &nbsp;MyStats
+<hr>
+ <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My Stats</h4>
 
 <br/>
 <p align="center">
@@ -29,8 +30,74 @@
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=manushiez&theme=blueberry&hide_border=true" />
   </a>
 </p>
+<be>
+<br>
 <br>
 
+ <hr>
+ <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Tech Stack..</h4>
+<p >
+
+ <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/javascript%20-%23F7DF1.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="json" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/MySQL-%230075a8.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp; 
+ <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp; 
+
+ <br/>
+
+<h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My working tools..</h4>
+<p>
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" />&nbsp;&nbsp;
+ 
+<h4 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;Visitor's count :eyes:</h4>
+
+<p align="center">
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>🐱My Github stats:</b></i> 
+</p>
+
+
+
+
+<p align="left" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manushiez&theme=chartreuse-dark"  />
+</p>
+
+
+<p>
+<a href="https://github.com/manushiez"><span>
+<br/><br/><br/><br/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=manushiez&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
+</span></a> </p>
+
+<hr clear="both"> 
+ <br/><br/><br/>
+<p align="center">
+<a href="https://github.com/manushiez"><span>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manushiez&theme=dracula" />
+</span></a> </p>
+
+   <br/>
+
+
+ <br/>
+ 
+
+
+<hr clear="both">
+
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right' height=180px width="300px"/>
 
 
 
