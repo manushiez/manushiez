@@ -63,14 +63,15 @@
 
 
 <p>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=manushiez&theme=chartreuse-dark"  />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manushiez&theme=chartreuse-dark"  />
+<br/><br/><br/>
 <a href="https://github.com/manushiez"><span>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=manushiez&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=manushiez&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi"/>
 </p>
 
 
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/>
 <hr clear="both"> 
  <br/><br/><br/>
 <p align="center">
