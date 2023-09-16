@@ -20,19 +20,8 @@
  
  
  </p>
-<hr>
- <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My Stats</h4>
 
-<br/>
-<p align="center">
-  <a href="https://lia0wang.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=manushiez&show_icons=true&theme=blueberry&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=manushiez&theme=blueberry&hide_border=true" />
-  </a>
-</p>
-<be>
-<br>
-<br>
+
 
  <hr>
  <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Tech Stack..</h4>
@@ -51,7 +40,10 @@
  <img src="https://img.shields.io/badge/MySQL-%230075a8.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp; 
  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp; 
 
+
  <br/>
+
+ <hr>
 
 <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My working tools..</h4>
 <p>
@@ -61,7 +53,7 @@
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" />&nbsp;&nbsp;
  
-<h4 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;Visitor's count :eyes:</h4>
+
 
 <p align="center">
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>🐱My Github stats:</b></i> 
@@ -70,17 +62,15 @@
 
 
 
-<p align="left" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manushiez&theme=chartreuse-dark"  />
+<p>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=manushiez&theme=chartreuse-dark"  />
+<a href="https://github.com/manushiez"><span>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=manushiez&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi"/>
 </p>
 
 
-<p>
-<a href="https://github.com/manushiez"><span>
-<br/><br/><br/><br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=manushiez&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
-</span></a> </p>
 
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <hr clear="both"> 
  <br/><br/><br/>
 <p align="center">
@@ -88,16 +78,17 @@
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manushiez&theme=dracula" />
 </span></a> </p>
 
-   <br/>
 
-
+ <br/>
+<!-- GitHub Cup's   -->
+ <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=manushiez&theme=vue" alt=""/> </p>
  <br/>
  
 
 
 <hr clear="both">
 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right' height=180px width="300px"/>
+
 
 
 
