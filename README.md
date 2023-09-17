@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" />&nbsp;&nbsp;
  
 
-
+<hr>
 <p align="center">
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>🐱My Github stats:</b></i> 
 </p>
@@ -71,9 +71,9 @@
 
 
 
-<br/><br/><br/><br/>
+<br/>
 <hr clear="both"> 
- <br/><br/><br/>
+ <br/>
 <p align="center">
 <a href="https://github.com/manushiez"><span>
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manushiez&theme=dracula" />
@@ -83,8 +83,7 @@
  <br/>
 <!-- GitHub Cup's   -->
  <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=manushiez&theme=vue" alt=""/> </p>
- <br/>
- 
+
 
 
 <hr clear="both">
