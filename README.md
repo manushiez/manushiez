@@ -1,4 +1,4 @@
-<img src = "https://github.com/manushiez/manushiez/blob/main/MANUSHI%20tyagi%20(3).png" align="center">
+
 <h1 align="center" >Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Manushi </h1>
 <h3><samp><strong>I'm currently learning Full-Stack Web Development. I’m looking to collaborate on projects. I like to design websites and solve problems I face while creating them. </strong></samp></h3>
 
@@ -53,40 +53,6 @@
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" />&nbsp;&nbsp;
  
-
-<hr>
-<p align="center">
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>🐱My Github stats:</b></i> 
-</p>
-
-
-
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manushiez&theme=chartreuse-dark"  />
-<br/><br/><br/>
-<a href="https://github.com/manushiez"><span>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=manushiez&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi"/>
-</p>
-
-
-
-<br/>
-<hr clear="both"> 
- <br/>
-<p align="center">
-<a href="https://github.com/manushiez"><span>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manushiez&theme=dracula" />
-</span></a> </p>
-
-
- <br/>
-<!-- GitHub Cup's   -->
- <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=manushiez&theme=vue" alt=""/> </p>
-
-
-
-<hr clear="both">
 
 
 
